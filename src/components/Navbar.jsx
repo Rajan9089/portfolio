@@ -14,7 +14,7 @@ export function Navbar() {
 
     return (
         <div className='flex text-2xl justify-between text-gray-200 items-center px-6 max-w-[1300px] mx-auto h-24'>
-            <a href="#">J.Doe</a>
+            <a href="#">Rajan Kumar</a>
 
             <ul className='hidden md:flex gap-12 z-10 cursor-pointer'>
                 <li className='relative group'>

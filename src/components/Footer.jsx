@@ -12,7 +12,7 @@ export function Footer() {
                 </div>
             </div>
 
-            <p className='text-gray-400 mt-12'>@ 2024 J.Doe</p>
+            <p className='text-gray-400 mt-12'>@ 2024 R.K</p>
         </div>
     )
 }
