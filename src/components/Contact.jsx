@@ -7,7 +7,7 @@ export function Contact() {
 
             <ul className='my-auto pr-6'>
                 <li className='flex'>
-                    <AiFillLinkedin href='https://www.linkedin.com/in/rajan-kumar-65541a22b/' className='w-[70px] h-auto text-gray-300' />
+                    <a href='https://www.linkedin.com/in/rajan-kumar-65541a22b/'><AiFillLinkedin  className='w-[70px] h-auto text-gray-300' /></a>
                     <div className='m-5'>
                         <h3 className='text-lg font-bold text-gray-200'>Contact</h3>
                         <p className='text-gray-400'>Mobile: xxx</p>
@@ -16,7 +16,7 @@ export function Contact() {
                 </li>
 
                 <li className='flex'>
-                    <AiFillGithub href='https://github.com/Rajan9089' className='w-[70px] h-auto text-gray-300' />
+                    <a href='https://github.com/Rajan9089'><AiFillGithub  className='w-[70px] h-auto text-gray-300' /></a>
                     <div className='m-5'>
                         <h3 className='text-lg font-bold text-gray-200'>Working Hours</h3>
                         <p className='text-gray-400'>Mon-Fri: 10am-5pm</p>
@@ -26,7 +26,7 @@ export function Contact() {
 
 
             <form action="https://getform.io/f/pbqggrwb" method="POST" className='max-w-6xl  p-5 md:p-12' id='form'>
-                <input type="text" name="name" id="name" placeholder='Your Name ...'
+      s          <input type="text" name="name" id="name" placeholder='Your Name ...'
                     className='mb-2 w-full rounded-md border border-gray-400 py-2 pl-2 pr-4' />
                 <input type="email" name="email" id="email" placeholder='Your Email...'
                     className='mb-2 w-full rounded-md border border-gray-400 py-2 pl-2 pr-4' />
