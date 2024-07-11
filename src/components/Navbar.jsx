@@ -23,7 +23,7 @@ export function Navbar() {
                 </li>
 
                 <li className='relative group'>
-                    <Link to="portfolio" smooth={true} offset={50} duration={500}>Portfolio</Link>
+                    <Link to="portfolio" smooth={true} offset={50} duration={500}>Project</Link>
                     <span className='absolute bottom-0 left-0 w-full h-1 bg-sky-600 transform scale-x-0 group-hover:scale-x-100 transition-transform duration-300 ease-in-out'></span>
                 </li>
 
