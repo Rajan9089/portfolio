@@ -42,7 +42,7 @@ export function Navbar() {
             <div className={nav ? 'text-center z-20 fixed h-full w-full left-0 top-0 bg-[#232323]' : 'fixed left-[-100%]'}>
                 <ul className='font-semibold text-4xl space-y mt-24'>
                     <li><Link to="about" onClick={closeNav} smooth={true} offset={50} duration={500}>About</Link></li>
-                    <li><Link to="portfolio" onClick={closeNav} smooth={true} offset={50} duration={500}>Portfolio</Link></li>
+                    <li><Link to="project" onClick={closeNav} smooth={true} offset={50} duration={500}>Project</Link></li>
                     <li><Link to="contact" onClick={closeNav} smooth={true} offset={50} duration={500}>Contact</Link></li>
                     
                 </ul>
