@@ -14,8 +14,8 @@ const projects = [
         title: "Project #1",
         description: "UI for frontend development using React",
         links: {
-            site: "#",
-            github: "#"
+            site: "https://todo-app-rks.vercel.app/",
+            github: "https://github.com/Rajan9089/TODO-APP"
         }
     },
     {
