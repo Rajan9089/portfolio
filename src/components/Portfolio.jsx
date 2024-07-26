@@ -39,7 +39,7 @@ const projects = [
     {
         img: project4,
         title: "Project #4",
-        description: "An e-commerce platfoem with various features.",
+        description: "An e-commerce platform with various features.",
         links: {
             site: "#",
             github: "#"
@@ -48,7 +48,7 @@ const projects = [
     {
         img: project5,
         title: "Project #5",
-        description: "A mobile-friendly application using React Native.",
+        description: "A basic demonstration of connection between frontend and backend.",
         links: {
             site: "#",
             github: "#"
