@@ -11,7 +11,7 @@ export function Hero() {
             <div className='max-w-[800px]'>
                 <p className='text-gray-200 md:text-6xl text-3xl tracking-tight'>
                     HEY,I AM <br />
-                    <span className=''>JOHN DOE</span> <br />
+                    <span className=''>RAJAN</span> <br />
                     <TypeAnimation
                         sequence={[
                             "Developer",
@@ -26,7 +26,7 @@ export function Hero() {
                         className='font-bold italic'
                     />
                 </p>
-                <h2 className='text-gray-300 '>with 5+ year of experience
+                <h2 className='text-gray-300 '>and passionate about technology.
                 </h2>
 
                 <div className='flex flex-row gap-4 mb-4 md:mb-0'>
